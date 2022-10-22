@@ -23,7 +23,7 @@
 [![Discord](https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&label=Discord&style=plastic)](https://discord.com/)
 ![Mail](https://img.shields.io/badge/-sam@starke.gg-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
-<blockquote>My Tech Stack</blockquote>
+<blockquote>Tech Stack</blockquote>
 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/samstarke)
