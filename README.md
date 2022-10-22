@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/samstarke/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=plastic)](https://open.spotify.com/user/1251hyj5uncfymtr1platd7ly?si=ef0741ef16b14fcd)
 [![Steam](https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/z_phi/)
-[![Discord](https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&label=Discord&style=plastic)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
 ![Mail](https://img.shields.io/badge/-sam@starke.gg-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
 <blockquote>Tech Stack</blockquote>
@@ -30,7 +30,7 @@
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-f89820.svg?logo=java&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=plastic)](https://github.com/samstarke)
-[![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white&style=plastic)](https://github.com/samstarke)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/samstarke)
 <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)](https://github.com/samstarke)
