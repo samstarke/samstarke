@@ -12,20 +12,20 @@
   </ul>
 <blockquote>Connect With Me</blockquote>
   <a href="https://www.youtube.com/channel/UCZcfieFwHZmXVUR9fHKzOlw/">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=plastic"/>
   </a>
   <a href="https://www.twitch.tv/Zeta64/">
-    <img src="https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white&style=plastic"/>
   </a>
   <a href="https://www.linkedin.com/in/samstarke/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic"/>
   </a>
   <a href="https://open.spotify.com/user/1251hyj5uncfymtr1platd7ly?si=ef0741ef16b14fcd">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=plastic"/>
   </a>
   <a href="https://steamcommunity.com/id/z_phi/">
-    <img src="https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic"/>
   </a>
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&label=Discord"/>
+    <img src="https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&label=Discord&style=plastic"/>
   </a>
