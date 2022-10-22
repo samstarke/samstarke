@@ -27,7 +27,7 @@
 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/samstarke)
-[![Java](https://i.imgur.com/ftz0f6o.png)](https://github.com/samstarke)
+[![Java](https://custom-icon-badges.demolab.com/badge/Java-f89820.svg?logo=java&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white&style=plastic)](https://github.com/samstarke)
