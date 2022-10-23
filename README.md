@@ -49,7 +49,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=plastic)
 ![CLion](https://img.shields.io/badge/-CLion-00E651?logo=clion&logoColor=white&style=plastic)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-3049FB?logo=intellij%20idea&logoColor=white&style=plastic)
-![VIM](https://img.shields.io/badge/-VIM-019733?logo=vim&logoColor=white&style=plastic)
+![Vim](https://img.shields.io/badge/-VIM-019733?logo=vim&logoColor=white&style=plastic)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90BF9A?logo=notepadplusplus&logoColor=white&style=plastic)
 <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
