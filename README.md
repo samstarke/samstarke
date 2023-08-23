@@ -15,12 +15,12 @@
 <blockquote>Connect With Me</blockquote>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=plastic)](https://www.youtube.com/channel/UCZcfieFwHZmXVUR9fHKzOlw/)
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white&style=plastic)](https://www.twitch.tv/Zeta64/)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white&style=plastic)](https://www.twitch.tv/2c96/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/samstarke_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/samstarke/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=plastic)](https://open.spotify.com/user/1251hyj5uncfymtr1platd7ly?si=ef0741ef16b14fcd)
 [![Steam](https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/z_phi/)
-[![Discord](https://img.shields.io/badge/-Zeta%230001-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/-2c96-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
 ![Mail](https://img.shields.io/badge/-sam@starke.gg-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
 <blockquote>Tech Stack</blockquote>
