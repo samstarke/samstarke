@@ -5,11 +5,10 @@
 
 <blockquote>About Me</blockquote>
   <ul>
-    <li>Software Engineer Intern at J.B. Hunt Transport Inc.</li>
-    <li>Senior Computer Science Student at University of Arkansas</li>
-    <li>Vice President of Association of Computing Machinery</li>
-    <li>Novice Database Architect</li>
-    <li>Novice UI/UX Designer</li>
+    <li>Software Engineer at J.B. Hunt Transport Inc.</li>
+    <li>Bachelor of Science in Computer Science from University of Arkansas</li>
+    <li>Database Architect</li>
+    <li>UI/UX Designer</li>
   </ul>
 
 <blockquote>Connect With Me</blockquote>
