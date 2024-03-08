@@ -10,7 +10,7 @@
     <li>Database Architect</li>
     <li>UI/UX Designer</li>
     <br>
-    <li>[Visit my Webpage](www.starke.gg)</li>
+    [Visit my Webpage](www.starke.gg)
   </ul>
 
 <blockquote>Connect With Me</blockquote>
