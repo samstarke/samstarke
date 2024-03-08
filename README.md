@@ -9,10 +9,10 @@
     <li>Bachelor of Science in Computer Science from University of Arkansas</li>
     <li>Database Architect</li>
     <li>UI/UX Designer</li>
-    <br>
-    [Visit my Webpage](www.starke.gg)
   </ul>
 
+[Visit my Webpage](www.starke.gg)
+    
 <blockquote>Connect With Me</blockquote>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=plastic)](https://www.youtube.com/channel/UCZcfieFwHZmXVUR9fHKzOlw/)
