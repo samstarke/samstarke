@@ -11,7 +11,7 @@
     <li>UI/UX Designer</li>
   </ul>
 
-[Visit my Webpage](www.starke.gg)
+[Visit my Webpage](https://www.starke.gg)
     
 <blockquote>Connect With Me</blockquote>
 
