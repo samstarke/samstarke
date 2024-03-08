@@ -9,6 +9,8 @@
     <li>Bachelor of Science in Computer Science from University of Arkansas</li>
     <li>Database Architect</li>
     <li>UI/UX Designer</li>
+    <br>
+    <li>[Visit my Webpage](www.starke.gg)</li>
   </ul>
 
 <blockquote>Connect With Me</blockquote>
