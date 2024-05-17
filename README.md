@@ -5,7 +5,7 @@
 
 <blockquote>About Me</blockquote>
   <ul>
-    <li>Software Engineer at J.B. Hunt Transport Inc.</li>
+    <li>Software Developer at ENERCALC</li>
     <li>Bachelor of Science in Computer Science from University of Arkansas</li>
     <li>Database Architect</li>
     <li>UI/UX Designer</li>
