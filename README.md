@@ -10,13 +10,10 @@
     <li>Database Architect</li>
     <li>UI/UX Designer</li>
   </ul>
-
-[Visit my Webpage](https://www.starke.gg)
     
 <blockquote>Connect With Me</blockquote>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=plastic)](https://www.youtube.com/channel/UCZcfieFwHZmXVUR9fHKzOlw/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/samstarke_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/samstarke/)
 [![Steam](https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/sphereofnoform/)
 [![Discord](https://img.shields.io/badge/-sphereofnoform-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
