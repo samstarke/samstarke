@@ -1,22 +1,9 @@
-<h1>
-  Hey, I'm Sam!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<blockquote>About Me</blockquote>
-  <ul>
-    <li>Software Developer at ENERCALC</li>
-    <li>Bachelor of Science in Computer Science from University of Arkansas</li>
-    <li>Database Architect</li>
-    <li>UI/UX Designer</li>
-  </ul>
-    
-<blockquote>Connect With Me</blockquote>
+ <blockquote>connect</blockquote>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=plastic)](https://www.youtube.com/channel/UCZcfieFwHZmXVUR9fHKzOlw/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/samstarke/)
-[![Steam](https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/sphereofnoform/)
-[![Discord](https://img.shields.io/badge/-sphereofnoform-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
+[![Steam](https://img.shields.io/badge/-Steam-2a475e?logo=steam&logoColor=white&style=plastic)](https://steamcommunity.com/id/mescog/)
+[![Discord](https://img.shields.io/badge/-kusofumen-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
 ![Mail](https://img.shields.io/badge/-sam@starke.gg-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
 <blockquote>Tech Stack</blockquote>
