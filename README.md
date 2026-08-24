@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/-kusofumen-555?logo=discord&logoColor=white&labelColor=5865F2&style=plastic)](https://discord.com/)
 ![Mail](https://img.shields.io/badge/-sam@starke.gg-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
-<blockquote>Tech Stack</blockquote>
+<blockquote>stack</blockquote>
 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/samstarke)
@@ -27,7 +27,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)](https://github.com/samstarke)
 
-<blockquote>Tools</blockquote>
+<blockquote>other</blockquote>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=plastic)
 ![CLion](https://img.shields.io/badge/-CLion-00E651?logo=clion&logoColor=white&style=plastic)
